@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: insertCode
+# key: icode_
+# --
+#+BEGIN_SRC C++
+	$0
+#+END_SRC

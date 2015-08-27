@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: insertWeek
+# key: iweek_
+# --
+* 个人感想
+$0
+* 本周工作
+
+* 下周工作

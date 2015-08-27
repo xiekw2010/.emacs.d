@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/Org/" "~/Ali/JUFLXLayoutKit/" "~/Github/DXAlertView/" "~/Github/betty/" "~/.emacs.d/misc/snippets/" "~/org/")

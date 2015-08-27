@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: insertuml
+# key: iuml_
+# --
+#+BEGIN_SRC plantuml :file ~/Org/UMLs/uml.png  :cmdline -charset UTF-8
+	$0
+#+END_SRC

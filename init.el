@@ -28,7 +28,7 @@
 ;;----------------------------------------------------------------------------
 (setq backup-directory-alist `((".*" . ,temporary-file-directory)))
 (setq auto-save-file-name-transforms `((".*" ,temporary-file-directory t)))
-
+(setq org-export-backends (quote (ascii html icalendar latex md)))
 ;;----------------------------------------------------------------------------
 ;; Bootstrap config
 ;;----------------------------------------------------------------------------
@@ -79,6 +79,7 @@
 (require 'init-darcs)
 (require 'Ag-tabbar)
 (require 'init-git)
+(require 'init-yasnippet)
 (require 'init-compile)
 (require 'init-crontab)
 (require 'init-textile)

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: initorg
+# key: initorg_
+# --
+# -*- Mode: org; -*-
+#+options: num:1
+#+latex_class: article
+#+html_head: <link rel="stylesheet" type="text/css" href="../css/week.css"/>
